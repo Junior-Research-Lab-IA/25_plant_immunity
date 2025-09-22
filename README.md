@@ -7,4 +7,7 @@ This project investigates whether plants can exhibit a form of herd immunity sim
 
 ![plans](https://www.gartengemeinschaft.de/wp-content/uploads/2022/01/Keimblaetter-ausheben.jpg)
 
-- social regulation 
+subjects : 
+- social regulation
+- diversity and density
+- plant communities 
