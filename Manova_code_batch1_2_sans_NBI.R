@@ -10,7 +10,7 @@ library(ggplot2)
 library(GGally)
 
 # Traitement de tableau pour la manipulation
-dat_full <- read_excel("batch1.xlsx")
+dat_full <- read_excel("Tableau_modifié_batch1_2.xlsx")
 
 dat <- dat_full %>%
   slice(1:184) %>% 
