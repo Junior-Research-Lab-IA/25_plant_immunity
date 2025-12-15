@@ -1,4 +1,4 @@
-# 25_plant_immunity
+# Project n°3 : plant immunity (JRL 2025-2026)
 
 ## When neighbours matter: Context-dependent effects of neighbour identity on plant growth–immunity trade-offs
 
