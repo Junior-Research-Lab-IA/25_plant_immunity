@@ -1,6 +1,6 @@
 # 25_plant_immunity
 
-## Does social regulation of plant immunity exist ?
+## When neighbours matter: Context-dependent effects of neighbour identity on plant growth–immunity trade-offs
 
 
 Intraspecific varietal mixtures are increasingly promoted as an agroecological strategy to improve disease regulation in plant communities. Even though research has shown that neighbor-modulated susceptibility (NMS), a process by which plant–plant interactions influence disease responses, is relevant, it has focused almost exclusively on cultivated species—mainly wheat and rice—and the magnitude and direction of NMS effects vary across species. Here, we tested whether recognition of a genetically related neighbour (kin) versus a conspecific of different origin (stranger) influences plant immunity. 
